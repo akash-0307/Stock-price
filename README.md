@@ -29,16 +29,16 @@ Download the Dataset needed for running the code from [here](https://drive.googl
 - [How can machine learning help stock investment?, Xin Guo](http://cs229.stanford.edu/proj2015/009_report.pdf)
 
 
-### Datasets used
-1. http://www.nasdaq.com/
-2. https://in.finance.yahoo.com
-3. https://www.google.com/finance
+### Dataset Origins
+1. [Nasdaq](http://www.nasdaq.com/)
+2. [Yahoo Finance](https://in.finance.yahoo.com)
+3. [Google Finance](https://www.google.com/finance)
 
 
 ### Useful Links 
-- **Slides**: http://www.slideshare.net/SharvilKatariya/stock-price-trend-forecasting-using-supervised-learning
-- **Video**: https://www.youtube.com/watch?v=z6U0OKGrhy0
-- **Report**: https://github.com/scorpionhiccup/StockPricePrediction/blob/master/Report.pdf
+- [**Slides**](http://www.slideshare.net/SharvilKatariya/stock-price-trend-forecasting-using-supervised-learning)
+- [**Video**](https://www.youtube.com/watch?v=z6U0OKGrhy0)
+- [**Report**](https://github.com/scorpionhiccup/StockPricePrediction/blob/master/Report.pdf)
 
 ### References
 - [Recurrent Neural Networks - LSTM Models](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
